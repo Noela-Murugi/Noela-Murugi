@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Noela 🙂
 
-
+<!--
 
 [Linkedin](https://www.linkedin.com/in/) |
 [Instagram](https://instagram.com)|
@@ -114,5 +114,6 @@ Full stack developer based in Nairobi, Kenya.
 <br />
 
 ---
+-->
 <h2 align="center">✨HAPPY CODING!!✨</h2>
 
