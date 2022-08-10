@@ -92,5 +92,34 @@ Full stack developer based in Nairobi, Kenya.
 
 ### ✨HAPPY CODING!!✨
 
+---
+<!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noela-Murugi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noela-Murugi&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+<table>
+  <tr>
+    <td>
+      <!--Stats-->
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Noela-Murugi&show_icons=true&count_private=true&theme=tokyonight"/>
+    </td>
+    <td>
+      <!--Languages -->
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Noela-Murugi&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
+   
+<p align="center">
+  <!--Streak-->
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noela-Murugi&langs_count=8&layout=compact&theme=tokyonight"/>
+</p>
 
+<br />
+
+<p align="center">
+  <img align="top" src="https://badges.pufler.dev/visits/Noela-Murugi/Noela-Murugi"/>++
+</p>
+
+<br />
+
+---
 
