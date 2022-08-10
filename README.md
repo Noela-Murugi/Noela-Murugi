@@ -19,24 +19,6 @@ Full stack developer based in Nairobi, Kenya.
 
 
 ---
-
-
-## Github Stats
-
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Noela-Murugia&count_private=true&show_icons=true&theme=cobalt">
-  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Noela-Murugi&">
-</a>
-
-</a>
-
-<figure><embed src="https://wakatime.com/share/@db874fdf-0144-4a83-9b0b-c8f5e72791c5/acdcb4a7-0b2d-47d3-bd36-7314ca7dc374.svg"></embed></figure>
-
-
-
-
-### ✨HAPPY CODING!!✨
-
----
 <h2 align="center">Skill Set</h2>
 
 <p align="left">
@@ -91,4 +73,26 @@ Full stack developer based in Nairobi, Kenya.
 <!-- Ethereum --> <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" title="Ethereum" /></a>
 
 ---
+
+
+
+---
+
+
+## Github Stats
+
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Noela-Murugia&count_private=true&show_icons=true&theme=cobalt">
+  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Noela-Murugi&">
+</a>
+
+</a>
+
+<figure><embed src="https://wakatime.com/share/@db874fdf-0144-4a83-9b0b-c8f5e72791c5/acdcb4a7-0b2d-47d3-bd36-7314ca7dc374.svg"></embed></figure>
+
+
+
+
+### ✨HAPPY CODING!!✨
+
+
 
