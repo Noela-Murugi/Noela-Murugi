@@ -113,10 +113,6 @@ Full stack developer based in Nairobi, Kenya.
 
 <br />
 
-<p align="center">
-  <img align="top" src="https://badges.pufler.dev/visits/Noela-Murugi/Noela-Murugi"/>++
-</p>
-
 <br />
 
 ---
