@@ -72,14 +72,12 @@ Full stack developer based in Nairobi, Kenya.
   
 <!-- Ethereum --> <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" title="Ethereum" /></a>
 
+
+
 ---
 
 
-
----
-
-
-## Github Stats
+### Github Stats
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Noela-Murugia&count_private=true&show_icons=true&theme=cobalt">
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Noela-Murugi&">
