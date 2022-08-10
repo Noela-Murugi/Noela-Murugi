@@ -5,7 +5,8 @@
 - 📫 You can reach me via email at noela.murugi@student.moringaschool.com 
 -->
 - ⚡ Fun fact: I like coding 
-
-#### ✨HAPPY CODING!!✨
+<br>
+<br>
+### ✨HAPPY CODING!!✨
 #### 😄
 
