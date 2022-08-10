@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Noela 🙂
 
 
-<!--
+
 [Linkedin](https://www.linkedin.com/in/) |
 [Instagram](https://instagram.com)|
 [Website](https://noela.com/) |
@@ -31,7 +31,7 @@ Full stack developer based in Nairobi, Kenya.
 
 <figure><embed src="https://wakatime.com/share/@db874fdf-0144-4a83-9b0b-c8f5e72791c5/acdcb4a7-0b2d-47d3-bd36-7314ca7dc374.svg"></embed></figure>
 
--->
+
 
 
 ### ✨HAPPY CODING!!✨
