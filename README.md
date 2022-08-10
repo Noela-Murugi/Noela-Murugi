@@ -76,8 +76,8 @@ Full stack developer based in Nairobi, Kenya.
 
 ---
 
+<h2 align="center">Github Stats</h2>
 
-### Github Stats
 <!--
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Noela-Murugia&count_private=true&show_icons=true&theme=cobalt">
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Noela-Murugi&">
