@@ -89,8 +89,6 @@ Full stack developer based in Nairobi, Kenya.
 -->
 
 
-
----
 <!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noela-Murugi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noela-Murugi&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <table>
@@ -116,4 +114,5 @@ Full stack developer based in Nairobi, Kenya.
 <br />
 
 ---
-### ✨HAPPY CODING!!✨
+<h2 align="center">✨HAPPY CODING!!✨</h2>
+
