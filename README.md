@@ -17,7 +17,9 @@ Full stack developer based in Nairobi, Kenya.
 - 📫 How to reach me: noela.murugi@student.moringaschool.com 
 - ⚡ Fun fact: I like coding 
 
+-->
 
+<!--
 ---
 <h2 align="center">Skill Set</h2>
 
@@ -72,12 +74,11 @@ Full stack developer based in Nairobi, Kenya.
   
 <!-- Ethereum --> <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" title="Ethereum" /></a>
 
-
-
 ---
-
+-->
+<!--
 <h2 align="center">Github Stats</h2>
-
+-->
 <!--
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Noela-Murugia&count_private=true&show_icons=true&theme=cobalt">
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Noela-Murugi&">
@@ -91,6 +92,7 @@ Full stack developer based in Nairobi, Kenya.
 
 <!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noela-Murugi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noela-Murugi&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--
 <table>
   <tr>
     <td>
