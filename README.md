@@ -57,11 +57,11 @@ Junior Full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noela-Murugi&theme=dark&background=000000&display=flex)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noela-Murugi&theme=dark&&count_private=truebackground=000000&display=flex)](https://git.io/streak-stats)
 
 <p display= "flex">
   <!--Streak-->
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noela-Murugi&langs_count=12&layout=compact&theme=tokyonight"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noela-Murugi&langs_count=8&count_private=true&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
