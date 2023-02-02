@@ -61,7 +61,7 @@ Junior Full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p display= "flex">
   <!--Streak-->
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noela-Murugi&langs_count=8&layout=compact&theme=tokyonight"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noela-Murugi&langs_count=12&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
