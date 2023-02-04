@@ -4,7 +4,7 @@
 </br>
 
 
-[![wakatime](https://wakatime.com/badge/user/c2249d27-39d3-4d70-ab08-106ed29cee2b.svg)](https://wakatime.com/@c2249d27-39d3-4d70-ab08-106ed29cee2b)
+<!-- [![wakatime](https://wakatime.com/badge/user/c2249d27-39d3-4d70-ab08-106ed29cee2b.svg)](https://wakatime.com/@c2249d27-39d3-4d70-ab08-106ed29cee2b) -->
 <a href="https://github.com/Noela-Murugi"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Noela-Murugi&style=flat-square" /></a>
 </br>
 <h3 align="left">🌐 Connect</h3>
