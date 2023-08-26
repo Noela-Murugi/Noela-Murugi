@@ -5,15 +5,15 @@
 
 [![wakatime](https://wakatime.com/badge/user/c2249d27-39d3-4d70-ab08-106ed29cee2b.svg)](https://wakatime.com/@c2249d27-39d3-4d70-ab08-106ed29cee2b)
 
-[LinkedIn](https://www.linkedin.com/in/trixienoelanjeru/) | [Website](https://noela-murugi.github.io/portfolio/) | [Instagram](https://www.instagram.com/roroooo.trix_ie/) | [Gmail](noela.murugi@student.moringaschool.com)
+[LinkedIn](https://www.linkedin.com/in/trixienoelanjeru/) | [Website](https://noela-murugi.github.io/portfolio/) | [Instagram](https://www.instagram.com/roroooo.trix_ie/) | [Gmail](mailto:noelatrixie@gmail.com?subject=Regarding%20GitHub%20Collaboration)
 
 ---
 
 ### :woman_technologist: About Me :
 
-Junior Full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Nairobi, Kenya. 
+Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Nairobi, Kenya. 
 - :telescope: I like contributing to both frontend and backend web projects.
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](noela.murugi@student.moringaschool.com)
+- :mailbox:How to reach me: [![Gmail Logo](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:noelatrixie@gmail.com?subject=Regarding%20GitHub%20Collaboration)
  </p>
  
  <br>
