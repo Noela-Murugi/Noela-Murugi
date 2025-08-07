@@ -31,7 +31,7 @@ Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 <p align="center">
   <a href="https://stream-radio-noela-murugi.vercel.app/" target="_blank">
-    <img src="https://github.com/Noela-Murugi/stream_radio/blob/main/images/radio.png?raw=true" width="40" />
+    <img src="https://github.com/Noela-Murugi/stream_radio/blob/main/images/radio.png?raw=true" width="100" />
   </a>
 </p>
 
