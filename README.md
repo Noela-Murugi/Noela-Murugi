@@ -22,8 +22,18 @@ Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noela-Murugi&langs_count=12&count_private=true&layout=compact&theme=light"/>
   </div>
 
-  
-  
+
+---
+
+<p align="center">
+  <a href="https://your-radio-app.vercel.app" target="_blank">
+    <img src="[https://img.icons8.com/ios-filled/50/000000/radio.png](https://img.icons8.com/?size=100&id=lecBkClCChOb&format=png&color=000000)" alt="Radio Icon" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Silence? Nah. Beats? Yeah. Hit the radio, catch a vibe, and always remember to wear your smile.🎶</b>
+</p>
 
 ---
 
