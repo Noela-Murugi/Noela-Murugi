@@ -31,7 +31,7 @@ Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 <p align="center">
   <a href="https://stream-radio-noela-murugi.vercel.app/" target="_blank">
-    <img src="https://www.google.com/imgres?q=radio%20icon%20for%20my%20github&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F3076%2F3076044.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fradio_3076044&docid=IQJOKB_ouwPKwM&tbnid=bbm6laDz8NqGBM&vet=12ahUKEwjbmrKRmPiOAxWFKvsDHcZtEbsQM3oECC0QAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjbmrKRmPiOAxWFKvsDHcZtEbsQM3oECC0QAA" alt="Radio Icon" width="40" height="40"/>
+    <link rel="icon" type="image/icon" href="images/radio.png" sizes="16x16">
   </a>
 </p>
 
