@@ -26,9 +26,12 @@ Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 ---
 
 <p>
-  <b>Silence? Nah. Beats? Yeah. Hit the radio, catch a vibe, and always remember to wear your smile.🎶</b>
+  <b>Silence? Nah. Beats? Yeah. Hit the radio, catch a vibe, and always remember to wear your smile.🙂🎶</b>
+</p>
+
+<p align="center">
   <a href="https://stream-radio-noela-murugi.vercel.app/" target="_blank">
-    <img src=" https://img.icons8.com/?size=100&id=yY2DXNZFLg5a&format=png&color=000000" alt="Radio Icon" width="40" height="40"/>
+    <img src="https://www.google.com/imgres?q=radio%20icon%20for%20my%20github&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F3076%2F3076044.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fradio_3076044&docid=IQJOKB_ouwPKwM&tbnid=bbm6laDz8NqGBM&vet=12ahUKEwjbmrKRmPiOAxWFKvsDHcZtEbsQM3oECC0QAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjbmrKRmPiOAxWFKvsDHcZtEbsQM3oECC0QAA" alt="Radio Icon" width="40" height="40"/>
   </a>
 </p>
 
